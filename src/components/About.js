@@ -46,7 +46,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                    Textutils gives you a way to analyze your text quickly and efficiently. Be it word count, character count or 
+                    TextWeaver gives you a way to analyze your text quickly and efficiently. Be it word count, character count or 
 
                     </div>
                     </div>
@@ -59,7 +59,7 @@ export default function About(props) {
                     </h2>
                     <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                     <div className="accordion-body" style={myStyle}>
-                    TextUtils is a free character counter tool that provides instant character count & word count statistics for a given text. TextUtils reports the number of words and characters. Thus it is suitable for writing text with word/ character limit.
+                    TextWeaver is a free character counter tool that provides instant character count & word count statistics for a given text. TextWeaver reports the number of words and characters. Thus it is suitable for writing text with word/ character limit.
                     </div>
                     </div>
                 </div>
