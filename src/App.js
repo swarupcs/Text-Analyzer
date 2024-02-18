@@ -51,7 +51,7 @@ function App() {
   return (
     <>
       <Router>
-    <Navbar title="TextWeaver" about="About WordWeaver" mode={mode} toggleMode={toggleMode} />
+    <Navbar title="TextWeaver" about="About TextWeaver" mode={mode} toggleMode={toggleMode} />
     <Alert alert={alert}/>
     <div className="container my-3" >
     <Routes>
